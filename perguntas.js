@@ -1,0 +1,60 @@
+criarCartao(
+    'Matematica',
+    'Pergunta',
+    'Reposta'
+)
+criarCartao(
+    'Matematica',
+    'Pergunta',
+    'Reposta'
+)
+criarCartao(
+    'Matematica',
+    'Pergunta',
+    'Reposta'
+)
+criarCartao(
+    'Matematica',
+    'Pergunta',
+    'Reposta'
+)
+criarCartao(
+    'Matematica',
+    'Pergunta',
+    'Reposta'
+)
+criarCartao(
+    'Matematica',
+    'Pergunta',
+    'Reposta'
+)
+criarCartao(
+    'Matematica',
+    'Pergunta',
+    'Reposta'
+)
+criarCartao(
+    'Matematica',
+    'Pergunta',
+    'Reposta'
+)
+criarCartao(
+    'Matematica',
+    'Pergunta',
+    'Reposta'
+)
+criarCartao(
+    'Matematica',
+    'Pergunta',
+    'Reposta'
+)
+criarCartao(
+    'Matematica',
+    'Pergunta',
+    'Reposta'
+)
+criarCartao(
+    'Matematica',
+    'Pergunta',
+    'Reposta'
+)
