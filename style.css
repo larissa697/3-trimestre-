@@ -37,7 +37,7 @@ body{
     font-weight: 500;
 }
 .cartao__conteudo__resposta p{
-    color:var(--verso-cartao);
+    color:var(--cor-texto);
     font-weight: 700;
     
 }
