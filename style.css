@@ -39,6 +39,7 @@ body{
     position: absolute;
     border-radius: 0.6rem;
     font-size: 1vw;
+    backface-visibility: hidden;
 }
 
 .cartao__conteudo p {
