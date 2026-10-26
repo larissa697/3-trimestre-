@@ -42,6 +42,6 @@ body{
     
 }
 
-.cartao.active .cartao__conteudo{
+.cartao.active.cartao__conteudo{
     transform: rotate(180deg);
 }
